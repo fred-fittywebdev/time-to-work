@@ -1,2 +1,3 @@
 # time-to-work
-A workout planner
+
+un générateur de workouts pour vous aider a planifier vos séances.
